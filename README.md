@@ -54,4 +54,4 @@ H0-V1   10 pasos, máximo 1 coche(s) dentro a la vez
 
 ## Autor
 
-Carmelo García · [gariol.es](https://gariol.es) · [LinkedIn](https://www.linkedin.com/in/carmgn)
+Carmelo García · [Portfolio: www.carmgn.eu](https://www.carmgn.eu) · [gariol.es](https://gariol.es) · [LinkedIn](https://www.linkedin.com/in/carmgn)
